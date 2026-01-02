@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kamal! (kamal-tech-26)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kamal%20Bidan&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kamal-tech-26&fontSize=70" />
 </div>
 
 ### 🚀 Aspiring Front-End Developer | React Student
@@ -41,4 +41,10 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=kamal-tech-26&show_icons=true&theme=radical&hide_border=true" alt="Kamal's GitHub stats" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+"I enjoy the process of turning complex designs into clean, functional code. Every bug I fix is a lesson learned!" 🚀
