@@ -34,7 +34,7 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 
 ### 📫 Connect with Me
 
-<p align="left"><a href="https://www.linkedin.com/in/kamaltech26" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kamal bidan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/kamal-tech-26" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kamal--tech--26-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/kamaltech26" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kamal bidan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/kamal-tech-26" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kamal--tech--26-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
 ---
 
