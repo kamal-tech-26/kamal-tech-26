@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamal Bidan! (kamal-tech-26)
+# 👋 Hi, I'm Kamal! (kamal-tech-26)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kamal%20Bidan&fontSize=70" />
@@ -34,25 +34,11 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 
 ### 📫 Connect with Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kamaltech26" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kamal%20Bidan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://github.com/kamal-tech-26" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kamal--Bidan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<p align="left"><a href="https://www.linkedin.com/in/kamaltech26" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kamal%20Bidan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/kamal-tech-26" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kamal--tech--26-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamal-tech-26&show_icons=true&theme=radical&hide_border=true" alt="Kamal's GitHub stats" />
-</p>
-
----
-
-### ⚡ Fun Fact
-"I enjoy the process of turning complex designs into clean, functional code. Every bug I fix is a lesson learned!" 🚀
+  <img src="
