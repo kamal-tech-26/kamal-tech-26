@@ -1,4 +1,4 @@
- #  👋 Welcome to Kamal Bidan's profile!
+# 👋 Welcome to Kamal Bidan's profile!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kamal-tech-26&fontSize=70" />
@@ -41,4 +41,18 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamal-tech-26&show_icons=true&theme=radical&hide_border=true" alt="Kam
+  <img src="https://github-readme-stats.vercel.app/api?username=kamal-tech-26&show_icons=true&theme=radical&hide_border=true" alt="Kamal's GitHub stats" />
+</p>
+
+---
+
+### 🎯 LeetCode Activity
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kamal-tech-26?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
+
+### ⚡ Fun Fact
+"I enjoy the process of turning complex designs into clean, functional code. Every bug I fix is a lesson learned!" 🚀
