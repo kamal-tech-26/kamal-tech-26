@@ -1,4 +1,4 @@
-# 👋 Hi, I'm kamal-tech-26!
+ #  👋 Welcome to Kamal Bidan's profile!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kamal-tech-26&fontSize=70" />
