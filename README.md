@@ -36,15 +36,12 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kamaltech26" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/kamaltech26-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/kamal-tech-26" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/kamal--tech--26-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
-
-- **LinkedIn:** [linkedin.com/in/kamaltech26](https://www.linkedin.com/in/kamaltech26)
-- **GitHub:** [github.com/kamal-tech-26](https://github.com/kamal-tech-26)
 
 ---
 
