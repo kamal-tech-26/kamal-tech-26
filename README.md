@@ -42,7 +42,7 @@ I am currently a student at **Almdrasa**, specializing in modern web development
 </a>
 </p>
 
-- **LinkedIn:** [linkedin.com/in/kamal-tech-26](https://www.linkedin.com/in/kamal-tech-26)
+- **LinkedIn:** [linkedin.com/in/kamaltech26](https://www.linkedin.com/in/kamaltech26)
 - **GitHub:** [github.com/kamal-tech-26](https://github.com/kamal-tech-26)
 
 ---
